@@ -1,2 +1,2 @@
-mediacommons_profile_base
+MediaCommons profile
 =========================
